@@ -5,5 +5,9 @@ public class Variable {
         System.out.println("Enter first number : " );
         int a = sc.nextInt();
         System.out.println(a);
+        System.out.println("enter the second number");
+        int b = sc.nextInt();
+        System.out.println(b);
+
     }
 }
