@@ -8,6 +8,8 @@ public class Variable {
         System.out.println("enter the second number");
         int b = sc.nextInt();
         System.out.println(b);
+int sum = a+b;
+        System.out.println("Sum of the no: " + sum);
 
     }
 }
